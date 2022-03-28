@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-wave Hi, I’m @bukovsk
-eyes I’m interested in PHP, Java, C# and C++.
-seedling I'm currently learning Java, primarily Spring, Hibernate and Microservices.
+👋 I’m @xbukovsk <br/>
+👀 I’m interested in PHP, Java, C# and C++. <br/>
+🌱 I'm currently learning Java, primarily Spring, Hibernate and Microservices. <br/>
 
 
 <!--
