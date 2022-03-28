@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+wave Hi, I’m @bukovsk
+eyes I’m interested in PHP, Java, C# and C++.
+seedling I'm currently learning Java, primarily Spring, Hibernate and Microservices.
+
+
 <!--
 **xbukovsk/xbukovsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
